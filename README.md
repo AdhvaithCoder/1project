@@ -1,7 +1,4 @@
-<html>
-<head>
-<title>MyProjects</title> 
-</head>
+
 <body>
  <ul>
  <li>
@@ -10,5 +7,4 @@
  </li>
  
  </ul>
-<body>
-</html>              
+<body>              
